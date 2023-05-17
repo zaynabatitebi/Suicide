@@ -1,0 +1,8 @@
+"","X..Pop.growth","Population..Female","Population..Male","Population..Total","Suicide.Rate..per.100k.Total.Pop.","Suicide.Rate..per.100k.Fem.","Suicide.Rate..per.100k.Male."
+"X..Pop.growth",1,-0.44,-0.42,-0.43,-0.74,-0.7,-0.74
+"Population..Female",-0.44,1,1,1,0.39,0.26,0.42
+"Population..Male",-0.42,1,1,1,0.36,0.24,0.39
+"Population..Total",-0.43,1,1,1,0.37,0.25,0.41
+"Suicide.Rate..per.100k.Total.Pop.",-0.74,0.39,0.36,0.37,1,0.96,0.99
+"Suicide.Rate..per.100k.Fem.",-0.7,0.26,0.24,0.25,0.96,1,0.93
+"Suicide.Rate..per.100k.Male.",-0.74,0.42,0.39,0.41,0.99,0.93,1

@@ -1,0 +1,10 @@
+TASK 1- DASHBOARD DEVELOPMENT
+In this task, I made a comparative analysis of the suicide rate between some selected countries using the powerBi app. you can find visualizations that shows the total population by countries, top and bottom 5 suicidal countries, suicidal rate by gender, year on year population growth by countries and a forecast of the suicide rate. On the home page, you will find the title of the dashboard and some KPI's.
+Also, below is a lin k to the report pn my powerBi service for your perusal. 
+
+PowerBI service link:
+https://app.powerbi.com/groups/me/reports/e84c91f1-8c24-497d-826e-ac2b6bf24b93/ReportSectiond6e043a98b73cc5b6c43
+
+
+TASK 2- STATISTICAL ANALYSIS
+Here, the R statistical tool was used to do a descriptive statistics of the same data used in Task 1. Also, a correlation and regression analysis was carried out to look at how correlated the attributes are and the independent attribute that is significantly correlated with the dependent variable. I also did a time series analysis for the population growth in Japan since it happens to be the mtopmost suicidal country. And finally, I did a comparative analysis of the suicide rate between the developed and underdeveloped countries, and realized there was a significant difference in the suicide rate between those two groups.
